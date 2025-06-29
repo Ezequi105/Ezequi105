@@ -159,13 +159,3 @@ Me chamo Ezequiel, tenho 24 anos e sou natural do Minas gerais. Concluí o ensin
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
- 
-  />
