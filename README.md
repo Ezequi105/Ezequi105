@@ -5,7 +5,7 @@
 
 # 👩🏻‍💻 Ezequiel Rodrigues
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Ezequiel, tenho 24 anos e sou natural do Minas gerais. Concluí o ensino médio no EAL, com o curso informatica na microlins . Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Univiçosa. Sou apaixonada por tecnologia .
 
