@@ -23,6 +23,6 @@
 ![NodeJS](https://img.shields.io/badge/-NodeJS-DD0031?style=flat-square&logo=NodeJS)
 
 <img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezequielrodriguez&layout=compact&theme=vision-friendly-dark" />
-<img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=joaodcpjunior&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
+<img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=Ezequielrodriguez&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
 
 ![Snake animation](https://github.com/joaodcpjunior/joaodcpjunior/blob/output/github-contribution-grid-snake.svg)
