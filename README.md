@@ -1,6 +1,6 @@
 ### :man_technologist: Olá, eu sou o Ezequiel! Bem vindo ao meu GitHub 👋 
 
-||Desenvolvedor Java Full Stack||
+||Desenvolvedor ||
 
 #### Meus contatos:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/eduardo-carlos-95a5121ba/)](https://www.linkedin.com/in/ezequiel-rodrigues-6a2576280/)
